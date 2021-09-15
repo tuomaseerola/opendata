@@ -4,16 +4,17 @@ A collection of links to all my openly available datasets. If something is missi
 
 ## Github
 
-* https://github.com/tuomaseerola/consonance-register
-* https://github.com/tuomaseerola/pakistan-chords
-* https://github.com/tuomaseerola/sad-music-hormones
-* https://github.com/tuomaseerola/onsetsync
-* https://github.com/tuomaseerola/inconMore
-* https://github.com/tuomaseerola/MusicScienceData
-* https://github.com/tuomaseerola/DCD
-* https://github.com/tuomaseerola/anatomy-of-consonance
-* https://github.com/tuomaseerola/friedman_reanalysis
-* https://github.com/tuomaseerola/primingroughness
+* Eerola, T. & Lahdelma I. (in review). Register Impacts Perceptual Consonance through Roughness and Sharpness. https://github.com/tuomaseerola/consonance-register
+* Lahdelma, I, Athanasopoulos, G. and Eerola, T. (2021). Sweetness is in the ear of the beholder: Chord preference across United Kingdom and Pakistani listeners. https://github.com/tuomaseerola/pakistan-chords
+* Eerola, T., Vuoskoski, J. K., Kautiainen, H., Peltola, H.-R., Putkinen, V., & Schäfer, K. (2021). Being moved by listening to unfamiliar sad music induces reward-related hormonal changes in empathic listeners. Annals of the New York Academy of Sciences. Paper at https://doi.org/10.1111/nyas.14660 and data and code at https://github.com/tuomaseerola/sad-music-hormones
+* Eerola, T. & Clayton, M. (in prep). onsetsync - Analysis and Visualisation of Synchronisation of Music Onset Data. https://github.com/tuomaseerola/onsetsync
+* Eerola, T. (2021). inconMore - More data for Computational Models of Simultaneous Consonance https://github.com/tuomaseerola/inconMore
+* Eerola, T. (2021). Music science data. https://github.com/tuomaseerola/MusicScienceData
+* Eerola, T. & Lahdelma, I. (2021). Durham Chord Dataset. https://github.com/tuomaseerola/DCD
+* Eerola, T. & Lahdelma, I. (2021). The Anatomy of Consonance/Dissonance: Evaluating Acoustic and Cultural Predictors Across Multiple Datasets with Chords. https://github.com/tuomaseerola/anatomy-of-consonance
+* Eerola, T., Lahdelma, I. & Armitage, J. (2021). Re-analysis of consonance and harmonicity in Friedman et al. data. https://github.com/tuomaseerola/friedman_reanalysis
+* Armitage, J., Lahdelma, I. & Eerola, T. (2021). Automatic responses to musical intervals: Contrasts in acoustic roughness predict affective priming in Western listeners. Article link https://doi.org/10.1121/10.0005623 and data https://github.com/tuomaseerola/primingroughness and models https://github.com/tuomaseerola/primingroughnessdata
+
 
 ## Open Science Framework
 

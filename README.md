@@ -4,36 +4,46 @@ A collection of links to all my openly available datasets. If something is missi
 
 ## Github
 
-* 
+* https://github.com/tuomaseerola/consonance-register
+* https://github.com/tuomaseerola/pakistan-chords
+* https://github.com/tuomaseerola/sad-music-hormones
+* https://github.com/tuomaseerola/onsetsync
+* https://github.com/tuomaseerola/inconMore
+* https://github.com/tuomaseerola/MusicScienceData
+* https://github.com/tuomaseerola/DCD
+* https://github.com/tuomaseerola/anatomy-of-consonance
+* https://github.com/tuomaseerola/friedman_reanalysis
+* https://github.com/tuomaseerola/primingroughness
 
 ## Open Science Framework
 
-* [Link to all dataa at OSF](https://osf.io/bvx3f/)
+* [Link to all data at OSF](https://osf.io/bvx3f/)
 
-* Lahdelma, I., Athanasopoulos, G., & Eerola, T. (2021, July 9). Sweetness of Harmony is in the Ear of the Beholder: Preference of Musical Chords Across Western and Northwest Pakistani Listeners. Retrieved from osf.io/ucjqr
+* Lahdelma, I., Athanasopoulos, G., & Eerola, T. (2021, July 9). Sweetness of Harmony is in the Ear of the Beholder: Preference of Musical Chords Across Western and Northwest Pakistani Listeners. https://osf.io/ucjqr
 * Armitage, J. E., Lahdelma, I., & Eerola, T. (2021, June 28). Automatic responses to acoustically rough musical intervals. https://doi.org/10.17605/OSF.IO/ZMJPD
-
 * Eerola, T., & Lahdelma, I. (2021, June 22). Consonance and register: A pre-registration of an empirical exploration of the impact of register on consonance. https://doi.org/10.17605/OSF.IO/76NHB
-
-* MICALLEF-GRIMAUD, A., & Eerola, T. (2021, May 20). Emotion manipulation through music. Retrieved from osf.io/fy4h6
-
-* Armitage, J. E., & Eerola, T. (2021, May 10). Cross-modal Transfer of Valence or Arousal from Music to Word Targets in Affective Priming? Retrieved from osf.io/qau7n
-
-* Jakubowski, K., & Eerola, T. (2021, May 7). Autobiographical memories cued by emotional music, sounds, and words. Retrieved from osf.io/dhcjb
-* Jakubowski, K., Belfi, A., & Eerola, T. (2020, December 8). Music- and television-evoked autobiographical memories from a representative UK sample. Retrieved from osf.io/t9pfb
+* MICALLEF-GRIMAUD, A., & Eerola, T. (2021, May 20). Emotion manipulation through music. https://osf.io/fy4h6
+* Armitage, J. E., & Eerola, T. (2021, May 10). Cross-modal Transfer of Valence or Arousal from Music to Word Targets in Affective Priming? https://osf.io/qau7n
+* Jakubowski, K., & Eerola, T. (2021, May 7). Autobiographical memories cued by emotional music, sounds, and words. https://osf.io/dhcjb
+* Jakubowski, K., Belfi, A., & Eerola, T. (2020, December 8). Music- and television-evoked autobiographical memories from a representative UK sample. https://osf.io/t9pfb
+* Eerola, T., & Lahdelma, I. (2020, October 5). Durham Chord Dataset. https://doi.org/10.17605/OSF.IO/4T9FM
+* Eerola, T. (2020, July 29). Ground-truth data for selected perceptual features. https://doi.org/10.17605/OSF.IO/6WQH5
+* Lahdelma, I., Eerola, T. Cultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension. Sci Rep 10, 8693 (2020). https://doi.org/10.1038/s41598-020-65615-8
+* Eerola, T., Lahdelma, I., & Athanasopoulos, G. (2020, March 29). Emotion and Harmonisations. https://osf.io/wq4tp
+* Lahdelma, I., Armitage, J. E., & Eerola, T. (2020, March 20). Affective Priming with Musical Chords is Influenced by Pitch Numerosity. https://osf.io/ghve9
+* Armitage, J. E., & Eerola, T. (2020, January 8). Response Time Data in Music Cognition. https://osf.io/yhsqv
+* Clayton, M., Eerola, T., Tarsitani, S., Jankowsky, R., Jure, L., Poole, A., … Jakubowski, K. (2019, December 9). Interpersonal Entrainment in Music Performance. https://doi.org/10.17605/OSF.IO/37FWS
+* Eerola, T. (2019, August 29). Music and emotion stimulus sets consisting of film soundtracks. https://osf.io/p6vkg
 
 ## Dataverse
 
-* Eerola, Tuomas, 2016, "Survey Data on Memorable Experiences with Sad Music – Reasons, Reactions and Mechanisms of Three Types of Experiences", https://doi.org/10.7910/DVN/GLSIXB, Harvard Dataverse, V2, UNF:6:aqANwHM/EC09RR5Mgu74Sg== [fileUNF]
-
-* Eerola, Tuomas; Lahdelma, Imre, 2016, "Data related to "Mild dissonance preferred over consonance in single chord perception"", https://doi.org/10.7910/DVN/GE5PPL, Harvard Dataverse, V1, UNF:6:O6SR/St+s28SinpqmhyebA== [fileUNF]
-
-Eerola, Tuomas, 2016, "Music and emotion dataset (Primary Musical Cues)", https://doi.org/10.7910/DVN/IFOBRN, Harvard Dataverse, V1, UNF:6:fot/Gayw46KLZ5DvnI+EQA== [fileUNF]
-
-* Bannister, Scott; Eerola, Tuomas, 2017, "Suppressing the Chills: Self-reports, physiological and psychoacoustic correlates", https://doi.org/10.7910/DVN/IUCN1Q, Harvard Dataverse, V2, UNF:6:AYj9ilJR6eWqscWkqJ3GfQ== [fileUNF]
-
-* Saari, Pasi; Eerola, Tuomas, 2013, "Semantic computing of moods based on tags in social media of music", https://doi.org/10.7910/DVN/TVYEGI, Harvard Dataverse, V1
+* Eerola, T. (2016). Survey Data on Memorable Experiences with Sad Music – Reasons, Reactions and Mechanisms of Three Types of Experiences, https://doi.org/10.7910/DVN/GLSIXB, Harvard Dataverse, V2, UNF:6:aqANwHM/EC09RR5Mgu74Sg== [fileUNF]
+* Eerola, T. & Lahdelma, I. (2016). Data related to "Mild dissonance preferred over consonance in single chord perception", https://doi.org/10.7910/DVN/GE5PPL, Harvard Dataverse, V1, UNF:6:O6SR/St+s28SinpqmhyebA== [fileUNF]
+* Eerola, T. (2016). Music and emotion dataset (Primary Musical Cues), https://doi.org/10.7910/DVN/IFOBRN, Harvard Dataverse, V1, UNF:6:fot/Gayw46KLZ5DvnI+EQA== [fileUNF]
+* Bannister, S. & Eerola, T. (2017). Suppressing the Chills: Self-reports, physiological and psychoacoustic correlates, https://doi.org/10.7910/DVN/IUCN1Q, Harvard Dataverse, V2, UNF:6:AYj9ilJR6eWqscWkqJ3GfQ== [fileUNF]
+* Saari, P. & Eerola, T. (2013). Semantic computing of moods based on tags in social media of music, https://doi.org/10.7910/DVN/TVYEGI, Harvard Dataverse, V1.
 
 ## UK Data Reshare
 
-
+* Clayton, M., Eerola, T., Jakubowski, K., & Tarsitani, S. (2017). Interactions in duo improvisations. [data collection]. UK Data Service. SN: 852847, http://doi.org/10.5255/UKDA-SN-852847
+* Eerola, T., & Saari, P. (2015). Moods and activities in music. [data collection]. UK Data Service. SN: 852024, http://doi.org/10.5255/UKDA-SN-852024

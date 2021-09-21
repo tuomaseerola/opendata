@@ -3,7 +3,7 @@
 A collection of links to all my openly available datasets. If something is missing, you can always ask.
 
 ## Github
-
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
 * Eerola, T. & Lahdelma I. (in review). Register Impacts Perceptual Consonance through Roughness and Sharpness. https://github.com/tuomaseerola/consonance-register
 * Lahdelma, I, Athanasopoulos, G. and Eerola, T. (2021). Sweetness is in the ear of the beholder: Chord preference across United Kingdom and Pakistani listeners. https://github.com/tuomaseerola/pakistan-chords
 * Eerola, T., Vuoskoski, J. K., Kautiainen, H., Peltola, H.-R., Putkinen, V., & Schäfer, K. (2021). Being moved by listening to unfamiliar sad music induces reward-related hormonal changes in empathic listeners. Annals of the New York Academy of Sciences. Paper at https://doi.org/10.1111/nyas.14660 and data and code at https://github.com/tuomaseerola/sad-music-hormones

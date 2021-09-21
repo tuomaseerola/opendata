@@ -3,7 +3,7 @@
 A collection of links to all my openly available datasets. If something is missing, you can always ask.
 
 ## Github
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="github-logo" width="60"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-logo" width="60"/>
 * Eerola, T. & Lahdelma I. (in review). Register Impacts Perceptual Consonance through Roughness and Sharpness. https://github.com/tuomaseerola/consonance-register
 * Lahdelma, I, Athanasopoulos, G. and Eerola, T. (2021). Sweetness is in the ear of the beholder: Chord preference across United Kingdom and Pakistani listeners. https://github.com/tuomaseerola/pakistan-chords
 * Eerola, T., Vuoskoski, J. K., Kautiainen, H., Peltola, H.-R., Putkinen, V., & Schäfer, K. (2021). Being moved by listening to unfamiliar sad music induces reward-related hormonal changes in empathic listeners. Annals of the New York Academy of Sciences. Paper at https://doi.org/10.1111/nyas.14660 and data and code at https://github.com/tuomaseerola/sad-music-hormones
@@ -17,7 +17,7 @@ A collection of links to all my openly available datasets. If something is missi
 
 
 ## Open Science Framework
-
+<img src="https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png" alt="OSF-logo" width="60"/>
 * [Link to all data at OSF](https://osf.io/bvx3f/)
 * Lahdelma, I., Athanasopoulos, G., & Eerola, T. (2021, July 9). Sweetness of Harmony is in the Ear of the Beholder: Preference of Musical Chords Across Western and Northwest Pakistani Listeners. https://osf.io/ucjqr
 * Armitage, J. E., Lahdelma, I., & Eerola, T. (2021, June 28). Automatic responses to acoustically rough musical intervals. https://doi.org/10.17605/OSF.IO/ZMJPD
@@ -36,7 +36,7 @@ A collection of links to all my openly available datasets. If something is missi
 * Eerola, T. (2019, August 29). Music and emotion stimulus sets consisting of film soundtracks. https://osf.io/p6vkg
 
 ## Dataverse
-
+<img src="https://dataverse.org/files/dataverseorg/files/dataverse_r_project.png" alt="dataverse-logo" width="60"/>
 * Eerola, T. (2016). Survey Data on Memorable Experiences with Sad Music – Reasons, Reactions and Mechanisms of Three Types of Experiences, https://doi.org/10.7910/DVN/GLSIXB, Harvard Dataverse, V2, UNF:6:aqANwHM/EC09RR5Mgu74Sg== [fileUNF]
 * Eerola, T. & Lahdelma, I. (2016). Data related to "Mild dissonance preferred over consonance in single chord perception", https://doi.org/10.7910/DVN/GE5PPL, Harvard Dataverse, V1, UNF:6:O6SR/St+s28SinpqmhyebA== [fileUNF]
 * Eerola, T. (2016). Music and emotion dataset (Primary Musical Cues), https://doi.org/10.7910/DVN/IFOBRN, Harvard Dataverse, V1, UNF:6:fot/Gayw46KLZ5DvnI+EQA== [fileUNF]
@@ -44,6 +44,6 @@ A collection of links to all my openly available datasets. If something is missi
 * Saari, P. & Eerola, T. (2013). Semantic computing of moods based on tags in social media of music, https://doi.org/10.7910/DVN/TVYEGI, Harvard Dataverse, V1.
 
 ## UK Data Reshare
-
+<img src="https://reshare.ukdataservice.ac.uk/reshare_template/images/reshare/sdatarecbadge.jpg" alt="github-logo" width="60"/>
 * Clayton, M., Eerola, T., Jakubowski, K., & Tarsitani, S. (2017). Interactions in duo improvisations. [data collection]. UK Data Service. SN: 852847, http://doi.org/10.5255/UKDA-SN-852847
 * Eerola, T., & Saari, P. (2015). Moods and activities in music. [data collection]. UK Data Service. SN: 852024, http://doi.org/10.5255/UKDA-SN-852024

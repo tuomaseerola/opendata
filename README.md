@@ -19,7 +19,7 @@ A collection of links to all my openly available datasets. If something is missi
 * Armitage, J., Lahdelma, I. & Eerola, T. (2021). Automatic responses to musical intervals: Contrasts in acoustic roughness predict affective priming in Western listeners. Article link https://doi.org/10.1121/10.0005623 and data https://github.com/tuomaseerola/primingroughness and models https://github.com/tuomaseerola/primingroughnessdata
 
 <div>
-  <h2><img src="https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-272b70fbebcd410fcebc10e5ce1a395abbf5c62d.png" alt="OSF-logo" width="60"/>Open Science Framework</h2>
+  <h2><img src="https://osf.io/static/img/institutions/shields/cos-shield.png" alt="OSF-logo" width="60"/>Open Science Framework</h2>
 </div>
     
 * [Link to all data at OSF](https://osf.io/bvx3f/)

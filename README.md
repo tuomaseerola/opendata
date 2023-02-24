@@ -6,8 +6,11 @@ A collection of links to all my openly available datasets. If something is missi
 <div>
   <h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> Github</h2>
 </div>
+
 * Eerola, T. & Lahdelma I. (2023). Cultural priming (in principle accepted article). https://github.com/tuomaseerola/cultural_priming
+
 * Eerola, T. & Lahdelma I. (2022). Register Impacts Perceptual Consonance through Roughness and Sharpness. Psychonomic Bulletin & Review, 29, 800–808. Article link https://doi.org/10.3758/s13423-021-02033-5 and data available at https://github.com/tuomaseerola/consonance-register
+
 * Lahdelma, I, Athanasopoulos, G. and Eerola, T. (2021). Sweetness is in the ear of the beholder: Chord preference across United Kingdom and Pakistani listeners. https://github.com/tuomaseerola/pakistan-chords
 * Eerola, T., Vuoskoski, J. K., Kautiainen, H., Peltola, H.-R., Putkinen, V., & Schäfer, K. (2021). Being moved by listening to unfamiliar sad music induces reward-related hormonal changes in empathic listeners. Annals of the New York Academy of Sciences. Paper at https://doi.org/10.1111/nyas.14660 and data and code at https://github.com/tuomaseerola/sad-music-hormones
 * Eerola, T. & Clayton, M. (in prep). onsetsync - Analysis and Visualisation of Synchronisation of Music Onset Data. https://github.com/tuomaseerola/onsetsync

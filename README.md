@@ -22,6 +22,13 @@ A collection of links to all my openly available datasets. If something is missi
 * Armitage, J., Lahdelma, I. & Eerola, T. (2021). Automatic responses to musical intervals: Contrasts in acoustic roughness predict affective priming in Western listeners. Article link https://doi.org/10.1121/10.0005623 and data https://github.com/tuomaseerola/primingroughness and models https://github.com/tuomaseerola/primingroughnessdata
 
 <div>
+  <h2><img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-200.png" alt="Zenodo-logo" width="60"/>Zenodo</h2>
+</div>
+
+Eerola, T., & Clayton, M. (2023). tuomaseerola/onsetsync: JOSS version. In Journal of Open Source Software (v0.5.1). Zenodo. https://doi.org/10.5281/zenodo.10050346
+
+
+<div>
   <h2><img src="https://osf.io/static/img/institutions/shields/cos-shield.png" alt="OSF-logo" width="60"/>Open Science Framework</h2>
 </div>
     

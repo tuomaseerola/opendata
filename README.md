@@ -7,7 +7,11 @@ A collection of links to all my openly available datasets. If something is missi
   <h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> Github</h2>
 </div>
 
-* Eerola, T. & Lahdelma I. (2023). Cultural priming (in principle accepted article). https://github.com/tuomaseerola/cultural_priming
+* Arthurs, Y. Lahdelma, I. Eerola, T. Pleasantness induction in music through consonance and dissonance: contrasting effect or tonal relation? https://github.com/tuomaseerola/penultimate_chord
+
+* Lahdelma, I., Eerola, T., Ahmad, N., Clayton, M., Armitage, J., Bhattacharyya, B. & Munsamy, N. Musical expertise better predictor of tension in harmonic intervals than psychoacoustics across North and South Indian listeners. https://github.com/tuomaseerola/interval_tension
+
+* Eerola, T. & Lahdelma I. (2024). Valenced Priming with Acquired Affective Concepts in Music: Automatic Reactions to Common Tonal Chords. _Music Perception_. https://github.com/tuomaseerola/cultural_priming
 
 * Eerola, T. & Lahdelma I. (2022). Register Impacts Perceptual Consonance through Roughness and Sharpness. Psychonomic Bulletin & Review, 29, 800–808. Article link https://doi.org/10.3758/s13423-021-02033-5 and data available at https://github.com/tuomaseerola/consonance-register
 

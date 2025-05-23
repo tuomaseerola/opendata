@@ -27,9 +27,13 @@ A collection of links to all my openly available datasets. If something is missi
 * Lahdelma, I, Athanasopoulos, G. and Eerola, T. (2021). Sweetness is in the ear of the beholder: Chord preference across United Kingdom and Pakistani listeners. https://github.com/tuomaseerola/pakistan-chords
 
 * Eerola, T., Vuoskoski, J. K., Kautiainen, H., Peltola, H.-R., Putkinen, V., & Schäfer, K. (2021). Being moved by listening to unfamiliar sad music induces reward-related hormonal changes in empathic listeners. Annals of the New York Academy of Sciences. Paper at https://doi.org/10.1111/nyas.14660 and data and code at https://github.com/tuomaseerola/sad-music-hormones
+<<<<<<< HEAD
 
 * Eerola, T. & Clayton, M. (in prep). onsetsync - Analysis and Visualisation of Synchronisation of Music Onset Data. https://github.com/tuomaseerola/onsetsync
 
+=======
+* Eerola, T. & Clayton, M. (2024). onsetsync - Analysis and Visualisation of Synchronisation of Music Onset Data. [https://github.com/tuomaseerola/onsetsync](https://github.com/tuomaseerola/onsetsync)
+>>>>>>> d5d7665b2c1c6eab57ad909ea6833ba5f17478f0
 * Eerola, T. (2021). inconMore - More data for Computational Models of Simultaneous Consonance https://github.com/tuomaseerola/inconMore
 
 * Eerola, T. (2021). Music science data. https://github.com/tuomaseerola/MusicScienceData

@@ -36,7 +36,6 @@ Eerola, T., & Clayton, M. (2023). tuomaseerola/onsetsync: JOSS version. In Journ
 </div>
     
 * [Link to all data at OSF](https://osf.io/bvx3f/)
-
 * Lahdelma, I., Athanasopoulos, G., & Eerola, T. (2021, July 9). Sweetness of Harmony is in the Ear of the Beholder: Preference of Musical Chords Across Western and Northwest Pakistani Listeners. https://osf.io/ucjqr
 * Armitage, J. E., Lahdelma, I., & Eerola, T. (2021, June 28). Automatic responses to acoustically rough musical intervals. https://doi.org/10.17605/OSF.IO/ZMJPD
 * Eerola, T., & Lahdelma, I. (2021, June 22). Consonance and register: A pre-registration of an empirical exploration of the impact of register on consonance. https://doi.org/10.17605/OSF.IO/76NHB
